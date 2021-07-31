@@ -9,4 +9,6 @@ This notebook was developed based on "Detect and Recognize Vehicle’s License P
 - Color analysis. For plate type classification, according to ecuadorian plates
 - Circulation restriction, according to plate's last digit and date-time
 - Basic information about the vehicle, according to ecuadorian ANT
+
+
 All the required data is available at the link and must be copied to the root of the personal Google Drive account.
